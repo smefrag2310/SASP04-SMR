@@ -2,7 +2,7 @@
 
 # Objetivo y relación con la tecnología
 
-![Imagen de la ODS13](assets/ODS13.jpg)
+![Imagen de la ODS13](assets/ODS13.JPG)
 
 El objetivo de la ODS 13 es adoptar medidas urgentes para combatir el cambio climático y sus efectos.
 
