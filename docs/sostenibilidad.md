@@ -4,7 +4,7 @@
 
 ## Introducción
 
-![Rueda de ods](ODS-Rueda.png)
+![Rueda de ods](assets/ODS-Rueda.png)
 
 La **sostenibilidad** se refiere a diseñar, desarrollar e implementar tecnologías de manera que se minimice su impacto ambiental, promueva el uso eficiente de recursos y apoye la equidad social a largo plazo.
 En el sector tecnológico actual sirve para mitigar el impacto ambiental de la industria y fomentar un desarrollo más equilibrado con el planeta, es decir, incita a las empresas a seguir prácticas sostenibles, con las cuales se contribuye a la reducción de residuos electrónicos, al uso eficiente de la energía y la adopción de tecnologías renovables.
